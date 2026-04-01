@@ -10,6 +10,7 @@ A curated list of awesome Claude Code source code investigation，research and  
 
 ### Custom Project
 [open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk) - an open-source Agent SDK inspired by claude-agent-sdk and the author is @shipany-ai.
+[cc-mini](https://github.com/e10nMa2k/cc-mini) - A lightweight Python implementation of Claude Code for the community by @e10nMa2k.
 
 ### Research
 
