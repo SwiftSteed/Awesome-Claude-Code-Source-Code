@@ -1,2 +1,16 @@
 # Awesome-Claude-Code-Source-Code
 A curated list of awesome Claude Code source code investigation，research and  custom project. 
+
+
+## Project
+
+### Decompile & Reverse engineer
+[claude-code](https://github.com/instructkr/claude-code) - Rewriting Project Claw Code by @instructkr  
+[claude-code](https://github.com/claude-code-best/claude-code) - decompile, reverse engineer of Claude Code by @claude-code-best.
+
+### Custom Project
+[open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk) - an open-source Agent SDK inspired by claude-agent-sdk and the author is @shipany-ai.
+
+### Research
+
+[claude-code-deep-dive](https://github.com/tvytlx/claude-code-deep-dive) - A systematic study based on the source code recovery of cli.js.map from the claude-code npm package by @tvytlx.
