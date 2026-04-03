@@ -23,6 +23,7 @@
 [claude-code](https://github.com/instructkr/claude-code) - 使用 Rust 全面重写的 Claude Code，目标是功能对等。作者 @instructkr。  
 [open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk) - 无 CLI 依赖的开源 Agent SDK，claude-agent-sdk 的替代方案。作者 @shipany-ai。  
 [cc-mini](https://github.com/e10nMa2k/cc-mini) - 超轻量级 Python AI Agent Harness 脚手架，Claude Code 的迷你版。作者 @e10nMa2k。
+[OpenHarness](https://github.com/HKUDS/OpenHarness) - 轻量级 Python AI Agent Harness, “3% 的代码行即可实现约 80% 的基本agent功能”. By [@HKUDS](https://github.com/HKUDS)
 
 ## 研究 & 分析
 
