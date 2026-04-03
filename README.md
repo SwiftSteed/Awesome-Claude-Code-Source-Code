@@ -1,5 +1,8 @@
 # Awesome-Claude-Code-Source-Code
-A curated list of awesome Claude Code source code investigation，research and  custom project. 
+
+**English** | [中文](README_zh-CN.md)
+
+A curated list of awesome Claude Code source code investigation, research and custom project.
 
 
 ## Project
