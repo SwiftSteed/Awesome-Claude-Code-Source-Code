@@ -22,7 +22,8 @@ Open-source rewrites and alternative implementations inspired by Claude Code.
 
 [claude-code](https://github.com/instructkr/claude-code) - Full rewrite of Claude Code in Rust, aiming for feature parity. By @instructkr.  
 [open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk) - Open-source Agent SDK without CLI dependencies, an alternative to claude-agent-sdk. By @shipany-ai.  
-[cc-mini](https://github.com/e10nMa2k/cc-mini) - Ultra-light Python harness scaffolding for AI agents, a mini version of Claude Code. By @e10nMa2k.
+[cc-mini](https://github.com/e10nMa2k/cc-mini) - Ultra-light Python harness scaffolding for AI agents, a mini version of Claude Code. By @e10nMa2k.  
+[OpenHarness](https://github.com/HKUDS/OpenHarness) - Lightweight Agent Harness in Python, approximately 80% of essential agent functionality using just 3% of the code lines. By [@HKUDS](https://github.com/HKUDS)
 
 ## Research & Analysis
 
